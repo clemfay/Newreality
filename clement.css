@@ -1,0 +1,25 @@
+h1 {
+	color: white;
+	font-size: 59px;
+	font-family: helvetica;
+	border-radius: 550px ;
+	width: 500px ;
+	text-align: center;
+	margin-left: 350px
+}
+
+
+h2 {
+	text-decoration: underline;
+	text-align: center;
+	margin-left: 100px
+}
+h3{
+	background-color: #3F96D2;
+	margin-right: 500px;
+}
+#logo{
+
+	margin-left: 120px;
+	margin-top: 20px;
+}
